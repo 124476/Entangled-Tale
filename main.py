@@ -1127,17 +1127,14 @@ class Player(pygame.sprite.Sprite):  # Игрок
                 door.rect.x = 20000
                 self.loc = 17
                 end_screen(4, True)
-        for j in apples:
-            if pygame.sprite.collide_mask(self, j):
-                j.rect.x = 20000
-                player.apples += 1
-                img = load_image('objects/apple.jpg')
-                img = pygame.transform.scale(img, (30, 30))
-        self.task_text = ''
-        if 740 < self.x < 1130 and 1100 < self.y < 1330 and self.loc == 13 and self.vis:
-            font_path = os.path.join("data/fonts", "Visitor Rus.ttf")
-            font = pygame.font.Font(font_path, 40)
-            self.task_text = font.render("Дальше нельзя", False, (0, 0, 0))
+        if pygame.sprite.collide_mask(self, door2):
+            all_sprites = pygame.sprite.Group()
+            player_group = pygame.sprite.Group()
+            background = Background('maps/a1_m4.png', (750, 400))
+            all_sprites.add(background)
+            player = Player(335, 200, 1)
+            player.loc = 10
+            mathGame('maps/a2_m5.png')
         if pygame.sprite.collide_mask(self, door3):
             if self.loc == 6 or self.loc == 9:
                 all_sprites = pygame.sprite.Group()
@@ -1164,6 +1161,10 @@ class Player(pygame.sprite.Sprite):  # Игрок
                 pas = Pass(850, 700)
                 player = Player(480, 540, 2, key=player.key, pas=player.pas)
                 player.loc = 6
+        if 740 < self.x < 1130 and 1100 < self.y < 1330 and self.loc == 13 and self.vis:
+            font_path = os.path.join("data/fonts", "Visitor Rus.ttf")
+            font = pygame.font.Font(font_path, 40)
+            self.task_text = font.render("Дальше нельзя", False, (0, 0, 0))
         if pygame.sprite.collide_mask(self, chest) and self.loc != 9:
             if player.key:
                 if self.ones:
@@ -1178,17 +1179,16 @@ class Player(pygame.sprite.Sprite):  # Игрок
                 (0, 187, 255):
             player.vis = False
 
+        for j in apples:
+            if pygame.sprite.collide_mask(self, j):
+                j.rect.x = 20000
+                player.apples += 1
+                img = load_image('objects/apple.jpg')
+                img = pygame.transform.scale(img, (30, 30))
+        self.task_text = ''
         if pygame.sprite.collide_mask(self, pas) and self.loc != 9:
             if player.pas:
                 a2_location('m1')
-        if pygame.sprite.collide_mask(self, door2):
-            all_sprites = pygame.sprite.Group()
-            player_group = pygame.sprite.Group()
-            background = Background('maps/a1_m4.png', (750, 400))
-            all_sprites.add(background)
-            player = Player(335, 200, 1)
-            player.loc = 10
-            mathGame('maps/a2_m5.png')
         elif pygame.sprite.collide_mask(self, sign1):
             font_path = os.path.join("data/fonts", "Visitor Rus.ttf")
             font = pygame.font.Font(font_path, 20)

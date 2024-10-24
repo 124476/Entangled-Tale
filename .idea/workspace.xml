@@ -5,137 +5,137 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b6f0fdc-2b1f-450a-a0fe-df5878d69a75" name="Changes" comment="end">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Entangled_Tale.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Entangled_Tale.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_02_2024_0_04__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_02_2024_0_04__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_02_2024_0_04_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_02_2024_0_04__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_01_2024_22_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_27_01_2024_22_37__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_12_2023_23_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_29_12_2023_23_31__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Entangled_tale.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bd.sqlite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button1_1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button2_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button3_3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/buttons/button4_4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/Entangled_Tale.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/act1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/act2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/act3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/blackfon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/fon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/gamewin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/camera-player/sybtit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/doors/door_act1_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/doors/door_act1_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/doors/door_act2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/doors/door_act3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/fonts/Visitor Rus.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a1_m1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a1_m2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a1_m3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a1_m4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a1_m5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a1_m6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a2_m1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a2_m2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a2_m3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a2_m4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a2_m5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a2_m6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a3_m1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a3_m2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a3_m3.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/maps/a3_m3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/act1_boss.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/act1_main.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/act2_boss.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/act2_main.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/act3_boss.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/act3_main.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/final_melody.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/mus_town.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/music/start_sound.ogg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/defens.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/traveler.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizardRus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_nature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_nature_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_nature_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_nature_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_physics.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_physics_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_physics_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_physics_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_physics_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/npc/wizard_physics_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/apple.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/apple_tree.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/cash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/chest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/chest_open.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/damage_platform.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/grayrect_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/grayrect_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/grayrect_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/grayrect_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/greenrect1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/greenrect2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/key.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/letter_a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/letter_b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/letter_d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/letter_g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/letter_v.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/pass.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/pillars.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/platform.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/redrect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/sign.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/text_window.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/objects/warning rect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_stop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_stop_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_walk_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_walk_1_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_walk_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_walk_2_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_walk_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.back_walk_3_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_stop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_stop_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_walk_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_walk_1_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_walk_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_walk_2_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_walk_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.front_walk_3_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_stop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_stop_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_walk_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_walk_1_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_walk_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_walk_2_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_walk_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.left_walk_3_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_stop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_stop_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_walk_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_walk_1_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_walk_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_walk_2_trans.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_walk_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/players_image/m.c.right_walk_3_trans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Output/mysetup.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/bd.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/data/bd.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button1_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button1_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button2_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button2_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button3_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button3_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/buttons/button4_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/buttons/button4_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/Entangled_Tale.ico" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/Entangled_Tale.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/act1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/act1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/act2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/act2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/act3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/act3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/blackfon.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/blackfon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/fon.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/fon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/gameover.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/gameover.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/gamewin.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/gamewin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/run.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/run.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/camera-player/sybtit.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/camera-player/sybtit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/doors/door_act1_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/doors/door_act1_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/doors/door_act1_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/doors/door_act1_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/doors/door_act2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/doors/door_act2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/doors/door_act3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/doors/door_act3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/fonts/Visitor Rus.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/data/fonts/Visitor Rus.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a1_m1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a1_m1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a1_m2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a1_m2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a1_m3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a1_m3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a1_m4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a1_m4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a1_m5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a1_m5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a1_m6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a1_m6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a2_m1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a2_m1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a2_m2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a2_m2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a2_m3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a2_m3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a2_m4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a2_m4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a2_m5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a2_m5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a2_m6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a2_m6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a3_m1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a3_m1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a3_m2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a3_m2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a3_m3.1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a3_m3.1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/maps/a3_m3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/maps/a3_m3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/act1_boss.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/act1_boss.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/act1_main.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/act1_main.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/act2_boss.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/act2_boss.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/act2_main.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/act2_main.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/act3_boss.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/act3_boss.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/act3_main.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/act3_main.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/final_melody.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/final_melody.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/mus_town.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/mus_town.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/music/start_sound.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/data/music/start_sound.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/defens.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/defens.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/traveler.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/traveler.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizardRus.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizardRus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_nature.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_nature.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_nature_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_nature_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_nature_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_nature_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_nature_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_nature_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_physics.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_physics.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_physics_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_physics_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_physics_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_physics_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_physics_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_physics_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_physics_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_physics_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/npc/wizard_physics_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/npc/wizard_physics_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/apple.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/apple.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/apple_tree.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/apple_tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/cash.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/cash.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/chest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/chest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/chest_open.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/chest_open.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/damage_platform.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/damage_platform.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/grayrect_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/grayrect_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/grayrect_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/grayrect_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/grayrect_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/grayrect_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/grayrect_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/grayrect_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/greenrect1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/greenrect1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/greenrect2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/greenrect2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/key.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/key.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/letter_a.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/letter_a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/letter_b.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/letter_b.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/letter_d.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/letter_d.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/letter_g.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/letter_g.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/letter_v.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/letter_v.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/pass.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/pass.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/pillars.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/pillars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/platform.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/platform.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/redrect.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/redrect.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/sign.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/sign.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/text_window.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/text_window.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/objects/warning rect.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/objects/warning rect.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_stop.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_stop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_stop_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_stop_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_walk_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_walk_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_walk_1_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_walk_1_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_walk_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_walk_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_walk_2_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_walk_2_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_walk_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_walk_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.back_walk_3_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.back_walk_3_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_stop.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_stop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_stop_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_stop_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_walk_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_walk_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_walk_1_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_walk_1_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_walk_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_walk_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_walk_2_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_walk_2_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_walk_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_walk_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.front_walk_3_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.front_walk_3_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_stop.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_stop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_stop_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_stop_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_walk_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_walk_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_walk_1_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_walk_1_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_walk_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_walk_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_walk_2_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_walk_2_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_walk_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_walk_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.left_walk_3_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.left_walk_3_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_stop.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_stop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_stop_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_stop_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_walk_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_walk_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_walk_1_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_walk_1_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_walk_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_walk_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_walk_2_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_walk_2_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_walk_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_walk_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date/data/players_image/m.c.right_walk_3_trans.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/players_image/m.c.right_walk_3_trans.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +150,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="ebd7927054d5b8e060684a8d555e47c853734464" />
@@ -195,7 +201,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mar1o/PycharmProjects/Entangled-Tale-pygame-project/data&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/art82/PycharmProjects/Best_diary&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
@@ -207,11 +213,33 @@
       <recent name="C:\Users\Mar1o\PycharmProjects\Entangled Tale\data\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\art82\PycharmProjects\Entangled-Tale" />
       <recent name="C:\Users\Mar1o\PycharmProjects\Entangled Tale" />
       <recent name="C:\Users\Mar1o\PycharmProjects\Entangled Tale\data" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Entangled-Tale" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Entangled_Tale" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -231,6 +259,81 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Entangled-Tale" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Entangled-Tale" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Entangled-Tale" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Entangled-Tale" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Entangled-Tale" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
   </component>
@@ -689,11 +792,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>582</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
           <line>609</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -701,6 +799,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>664</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>1168</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
